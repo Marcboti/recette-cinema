@@ -22,4 +22,4 @@ console.log (`La recette totale est de ${recette}"FCFA"`);
 
 // Nous calculons le nombre de billets vendus pour chaque tarif 
 console.log(`le nombre de billets vendus à 1500 FCFA est égale à : ${Nb1500}`);
-console.log(`le nombre de billets vendus à 1500 FCFA est égale à : ${Nb2500}`);
+console.log(`le nombre de billets vendus à 2500 FCFA est égale à : ${Nb2500}`);
