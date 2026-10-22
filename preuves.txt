@@ -1,0 +1,29 @@
+PS C:\Users\DELL\Documents\recette-cinema\recette-cinema> node partie1.js
+Vous avez 11, et votre billet est de 1500, "FCFA"
+Vous avez 12, et votre billet est de 1500, "FCFA"
+Vous avez 13, et votre billet est de 1500, "FCFA"
+Vous avez 14, et votre billet est de 1500, "FCFA"
+Vous avez 15, et votre billet est de 1500, "FCFA"
+Vous avez 16, et votre billet est de 2500,"FCFA"
+Vous avez 17, et votre billet est de 2500,"FCFA"
+Vous avez 18, et votre billet est de 2500,"FCFA"
+Vous avez 19, et votre billet est de 2500,"FCFA"
+Vous avez 20, et votre billet est de 2500,"FCFA"
+La recette totale est de 20000"FCFA"
+le nombre de billets vendus à 1500 FCFA est égale à : 5
+le nombre de billets vendus à 1500 FCFA est égale à : 5
+
+PS C:\Users\DELL\Documents\recette-cinema\recette-cinema> node partie2.js
+Vous avez 11, et votre billet est de 1500, "FCFA"
+Vous avez 12, et votre billet est de 1500, "FCFA"
+Vous avez 13, et votre billet est de 1500, "FCFA"
+Vous avez 14, et votre billet est de 1500, "FCFA"
+Vous avez 15, et votre billet est de 1500, "FCFA"
+Vous avez 16, et votre billet est de 2500,"FCFA"
+Vous avez 17, et votre billet est de 2500,"FCFA"
+Vous avez 18, et votre billet est de 2000,"FCFA"
+Vous avez 19, et votre billet est de 2000,"FCFA"
+Vous avez 20, et votre billet est de 2000,"FCFA"
+La recette totale est de 20000"FCFA"
+le nombre de billets vendus à 1500 FCFA est égale à : 5
+le nombre de billets vendus à 1500 FCFA est égale à : 5
