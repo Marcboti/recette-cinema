@@ -4,7 +4,7 @@ let Nb1500 = 0
 let Nb2500 = 0
 let recette = 0
 
-// nous affichons l’âge et le prix du billet de chaque personne.
+// Nous affichons l’âge et le prix du billet de chaque personne.
 for ( let age = 11 ; age <= 20; age = age +1 ) {
     if ( age < 16) {
         console.log(`Vous avez ${age}, et votre billet est de ${prix1}, "FCFA"`)
